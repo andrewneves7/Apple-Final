@@ -1,0 +1,17 @@
+{
+  "name": "AppleEcommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js"
+} 
+
+{
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://andrewneves7.github.io/AppleEcommerce",
+
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
